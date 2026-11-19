@@ -12,6 +12,7 @@ This folder contains Java implementations of common sorting algorithms.
 | **Merge Sort** | $O(n \log n)$ | $O(n \log n)$ | $O(n \log n)$ | $O(n)$ |
 | **Quick Sort** | $O(n \log n)$ | $O(n \log n)$ | $O(n^2)$ | $O(\log n)$ |
 | **Shell Sort** | $O(n \log n)$ | $O(n \log^2 n)$ | $O(n^2)$ | $O(1)$ |
+| **Heap Sort** | $O(n \log n)$ | $O(n \log n)$ | $O(n \log n)$ | $O(1)$ |
 
 ### Notes
 * **Bubble Sort:** Best case is $O(n)$ only when optimized with a `swapped` flag.
