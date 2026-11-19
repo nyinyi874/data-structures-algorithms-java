@@ -9,5 +9,4 @@ public static void SelectionSort(int[] a) {
                 }
             }
         }
-
     }
