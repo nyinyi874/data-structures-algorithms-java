@@ -1,7 +1,5 @@
 # Arrays and Linked Lists in Java
 
-This folder contains Java implementations of static/dynamic arrays and different types of linked lists.
-
 ## Implementations (`code/`)
 * `ArrayOperations.java`
 * `DynamicArray.java`
